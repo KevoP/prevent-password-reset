@@ -1,3 +1,20 @@
+Contributors: KevoP
+Tags: admin, password
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Prevent password resets for select users or by role
+Hide admin bar for select users or by role
+Deny access to the Wodrpress backend for select users or by role
+
+
+
+
+
+=============================================================================================================
+The following is from the original project by Justin Tadlock
+=============================================================================================================
+
 === Prevent Password Reset ===
 
 Contributors: greenshady
